@@ -33,62 +33,57 @@ main{
 }
 
 /* Positionnement */
-
-img{
-  position:relative;
-}
-
 #img1{
-  left:-28px;
-  top:28px;
+  margin-left:-28px;
+  margin-top:28px;
 }
 
 #img2{
-  left:-75px;
+  margin-left:-75px;
 }
 
 #img3{
-  left:-9px;
+  margin-left:-9px;
 }
 
 #img4{
-  top:10px;
+  margin-top:10px;
 }
 
 #img5{
-  top:-64px;
-  left:7px;
+  margin-top:-64px;
+  margin-left:7px;
 }
 
 #img6{
-  top:-58px;
-  left:-8px;
+  margin-top:-58px;
+  margin-left:-8px;
 }
 
 #img7{
-  top:8px;
+  margin-top:8px;
 }
 
 #img8{
-  left:-86px;
-  top:-22px;
+  margin-left:-86px;
+  margin-top:-22px;
 }
 
 #img9{
-  left:-85px;
-  top:-44px;
+  margin-left:-85px;
+  margin-top:-44px;
 }
 
 #img10{
-  top:30px;
+  margin-top:30px;
 }
 
 #img11{
-  top:-35px;
-  left:61px;
+  margin-top:-35px;
+  margin-left:61px;
 }
 
 #img12{
-  top:-45px;
-  left:-17px;
+  margin-top:-45px;
+  margin-left:-17px;
 }
